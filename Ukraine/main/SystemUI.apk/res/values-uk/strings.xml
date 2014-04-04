@@ -215,10 +215,10 @@
     <string name="recent_totalmem">Всього пам\'яті:</string>
     <string name="recent_usedmem">Використано:</string>
     <string name="phonestatusbarsettings_title">Позиції в рядку повідомлень</string>
-    <string name="trans_statusbar_setting">Прозора рядок сповіщень</string>
+    <string name="trans_statusbar_setting">Прозорість рядка сповіщень</string>
     <string name="trans_statusbar_key">trans_statusbar_key</string>
-    <string name="notifilter_header">ПРИХОВАНІ ПОВІДОМЛЕННЯ</string>
-    <string name="notifilter_tail">ВИДИМІ ПОВІДОМЛЕННЯ</string>
+    <string name="notifilter_header">Приховані повідомлення</string>
+    <string name="notifilter_tail">Видимі повідомлення</string>
     <string name="notifilter_setting">Фільтр повідомлень</string>
     <string name="notifilter_activity_title">Налаштування фільтра повідомлень</string>
     <string name="power_battery_fulltitle">Заряд батареї</string>
